@@ -1,4 +1,4 @@
-Deployment link:- https://portfolio-kypn.vercel.app/
+Deployment link:- https://portfolio-kypn.vercel.app
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
