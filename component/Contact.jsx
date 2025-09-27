@@ -30,7 +30,7 @@ function Contact() {
     },
     {
       icon: mail,
-      text: "vishalkumbhar56@gmail.com",
+      text: "vishalkumbhar256@gmail.com",
       bg: "bg-indigo-600/30",
       hoverBg: "group-hover:bg-indigo-500/50",
       underline: "bg-indigo-400",

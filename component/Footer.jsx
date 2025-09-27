@@ -17,7 +17,7 @@ function Footer() {
 
       <div className="flex space-x-6 mt-4 md:mt-0">
         <motion.a
-          href="https://www.linkedin.com/in/vishal-kumbhar-018a8b1b6"
+          href="https://www.linkedin.com/in/vishal-kumbhar-018a8b1b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{
